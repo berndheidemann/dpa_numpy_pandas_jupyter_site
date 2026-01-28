@@ -1,7 +1,7 @@
 # Pandas Transformation
 
 !!! tip "Code ausprobieren"
-    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](https://berndheidemann.github.io/dpa_numpy_pandas_jupyter_site/jupyter/lab/index.html){ .md-button target="_blank" }
 
 ## Übersicht
 

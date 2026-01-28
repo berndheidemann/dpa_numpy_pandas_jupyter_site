@@ -24,7 +24,7 @@ In dieser Lernsituation arbeitest du mit echten NYC Yellow Taxi Trip-Daten. Du l
 <strong>Bearbeite alle Aufgaben in einem Jupyter Notebook</strong>
 <small>Öffne JupyterLite direkt im Browser – keine Installation nötig!</small>
 </div>
-<a href="../jupyter/lab/index.html" target="_blank" class="jupyter-button">
+<a href="https://berndheidemann.github.io/dpa_numpy_pandas_jupyter_site/jupyter/lab/index.html" target="_blank" class="jupyter-button">
 🚀 JupyterLite öffnen
 </a>
 </div>
