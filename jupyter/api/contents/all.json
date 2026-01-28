@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-28T13:53:59.344312Z",
+      "created": "2026-01-28T14:00:25.905764Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-01-28T13:53:37.474387Z",
+      "last_modified": "2026-01-28T14:00:06.714937Z",
       "mimetype": null,
       "name": "numpy_uebungen.ipynb",
       "path": "numpy_uebungen.ipynb",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-01-28T13:53:59.344312Z",
+      "created": "2026-01-28T14:00:25.906764Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-01-28T13:53:37.474387Z",
+      "last_modified": "2026-01-28T14:00:06.714937Z",
       "mimetype": null,
       "name": "pandas_uebungen.ipynb",
       "path": "pandas_uebungen.ipynb",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-01-28T13:53:59.344312Z",
+  "created": "2026-01-28T14:00:25.905764Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-28T13:53:59.344312Z",
+  "last_modified": "2026-01-28T14:00:25.905764Z",
   "mimetype": null,
   "name": "",
   "path": "",
