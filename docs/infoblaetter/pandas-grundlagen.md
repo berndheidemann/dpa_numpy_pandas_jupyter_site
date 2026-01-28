@@ -1,5 +1,8 @@
 # Pandas Grundlagen
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Was ist Pandas?
 
 **Pandas** ist die wichtigste Python-Bibliothek für Datenanalyse. Sie bietet leistungsstarke, flexible Datenstrukturen für die Arbeit mit tabellarischen Daten.

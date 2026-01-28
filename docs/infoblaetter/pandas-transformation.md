@@ -1,5 +1,8 @@
 # Pandas Transformation
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Übersicht
 
 Transformationen ändern oder erweitern Daten: Werte umwandeln, neue Spalten berechnen, Text verarbeiten.

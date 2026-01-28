@@ -1,5 +1,8 @@
 # Pandas Aggregation & Gruppierung
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Übersicht
 
 Aggregation und Gruppierung sind Kernfunktionen für Datenanalyse: Daten zusammenfassen, Muster erkennen und Kennzahlen berechnen.

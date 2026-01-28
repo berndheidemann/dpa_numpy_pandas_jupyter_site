@@ -23,7 +23,16 @@ In der Praxis liegen Daten oft in mehreren Tabellen vor. Um sie zu analysieren, 
 - **Verketten (`concat`)**: Tabellen untereinander oder nebeneinander anfügen
 - **Zusammenführen (`merge`)**: Tabellen über gemeinsame Spalten verbinden (wie SQL JOIN)
 
-**Bearbeite alle Aufgaben in einem Jupyter Notebook.**
+<div class="notebook-hint" markdown>
+<span class="notebook-hint-icon">📓</span>
+<div class="notebook-hint-text">
+<strong>Bearbeite alle Aufgaben in einem Jupyter Notebook</strong>
+<small>Öffne JupyterLite direkt im Browser – keine Installation nötig!</small>
+</div>
+<a href="../jupyter/lab/index.html" target="_blank" class="jupyter-button">
+🚀 JupyterLite öffnen
+</a>
+</div>
 
 ---
 

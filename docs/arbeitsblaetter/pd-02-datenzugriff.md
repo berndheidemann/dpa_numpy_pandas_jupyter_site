@@ -35,7 +35,16 @@ flowchart TB
     style bool fill:#90EE90
 ```
 
-**Bearbeite alle Aufgaben in einem Jupyter Notebook.**
+<div class="notebook-hint" markdown>
+<span class="notebook-hint-icon">📓</span>
+<div class="notebook-hint-text">
+<strong>Bearbeite alle Aufgaben in einem Jupyter Notebook</strong>
+<small>Öffne JupyterLite direkt im Browser – keine Installation nötig!</small>
+</div>
+<a href="../jupyter/lab/index.html" target="_blank" class="jupyter-button">
+🚀 JupyterLite öffnen
+</a>
+</div>
 
 **Spaltenübersicht für den MBA-Datensatz:**
 

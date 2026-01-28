@@ -1,5 +1,8 @@
 # NumPy Funktionen & Statistik
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Übersicht
 
 NumPy bietet eine umfangreiche Sammlung von mathematischen und statistischen Funktionen, die auf Arrays angewendet werden können.

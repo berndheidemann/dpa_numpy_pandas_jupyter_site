@@ -119,6 +119,12 @@ Für die Bearbeitung benötigst du:
 - [ ] Pandas (`pip install pandas`)
 - [ ] Jupyter Notebook oder VS Code mit Python-Extension
 
+**Oder nutze JupyterLite direkt im Browser – keine Installation nötig!**
+
+<a href="jupyter/lab/index.html" target="_blank" class="jupyter-button" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #f37626 0%, #e56717 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+🚀 JupyterLite öffnen
+</a>
+
 ```python
 # Installation prüfen
 import numpy as np

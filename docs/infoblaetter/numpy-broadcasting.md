@@ -1,5 +1,8 @@
 # NumPy Broadcasting
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Was ist Broadcasting?
 
 Broadcasting ist ein mächtiges Konzept, das es ermöglicht, arithmetische Operationen auf Arrays **unterschiedlicher Größe** durchzuführen. NumPy "erweitert" dabei automatisch das kleinere Array, um es kompatibel zu machen.

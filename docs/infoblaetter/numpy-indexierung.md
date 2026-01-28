@@ -1,5 +1,8 @@
 # NumPy Indexierung & Slicing
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Übersicht
 
 Indexierung und Slicing sind fundamentale Techniken, um auf Teile von Arrays zuzugreifen. NumPy erweitert die Python-Konzepte um mächtige Funktionen für mehrdimensionale Arrays.

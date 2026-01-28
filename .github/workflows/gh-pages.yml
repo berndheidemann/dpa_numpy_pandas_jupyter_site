@@ -31,7 +31,7 @@ jobs:
       # Installation von JupyterLite
       - name: Install JupyterLite
         run: |
-          pip install jupyterlite-core jupyterlite-pyodide-kernel
+          pip install jupyterlite-core jupyterlite-pyodide-kernel jupyter-server
 
       # Build MkDocs (–strict bricht bei Fehlern ab)
       - name: Build MkDocs site

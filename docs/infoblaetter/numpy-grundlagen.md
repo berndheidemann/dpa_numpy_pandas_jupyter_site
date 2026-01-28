@@ -1,5 +1,8 @@
 # NumPy Grundlagen
 
+!!! tip "Code ausprobieren"
+    Probiere die Beispiele direkt im Browser aus: [:material-rocket-launch: JupyterLite öffnen](../jupyter/lab/index.html){ .md-button target="_blank" }
+
 ## Was ist NumPy?
 
 **NumPy** (Numerical Python) ist die fundamentale Bibliothek für wissenschaftliches Rechnen in Python. Sie bietet:
