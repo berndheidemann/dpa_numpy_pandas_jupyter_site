@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-01-28T13:53:59.344312Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-28T13:53:37.474387Z",
+      "mimetype": null,
+      "name": "numpy_uebungen.ipynb",
+      "path": "numpy_uebungen.ipynb",
+      "size": 1790,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-28T13:53:59.344312Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-28T13:53:37.474387Z",
+      "mimetype": null,
+      "name": "pandas_uebungen.ipynb",
+      "path": "pandas_uebungen.ipynb",
+      "size": 2588,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-01-28T13:53:59.344312Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-01-28T13:53:59.344312Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
