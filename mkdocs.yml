@@ -1,0 +1,107 @@
+site_name: "Datenanalyse mit NumPy & Pandas"
+site_url: https://berndheidemann.github.io/dpa_numpy_pandas_jupyter_site
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    # Navigation und Layout
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    # - toc.integrate
+    # Suche & UX
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.progress   # Fortschrittsbalken beim Scrollen
+  language: de
+  palette:
+    # Light Mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Zu Dark Mode wechseln
+    # Dark Mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Zu Light Mode wechseln
+
+nav:
+  - Start: index.md
+  - NumPy:
+      - Arbeitsblätter:
+          - NP-01 Einführung: arbeitsblaetter/np-01-einfuehrung.md
+          - NP-02 Indexierung: arbeitsblaetter/np-02-indexierung.md
+          - NP-03 Statistik: arbeitsblaetter/np-03-statistik.md
+          - NP-04 Filtern: arbeitsblaetter/np-04-filtern.md
+          - NP-05 Fallstudie: arbeitsblaetter/np-05-fallstudie.md
+      - Infoblätter:
+          - NumPy Grundlagen: infoblaetter/numpy-grundlagen.md
+          - NumPy Indexierung: infoblaetter/numpy-indexierung.md
+          - NumPy Funktionen: infoblaetter/numpy-funktionen.md
+          - NumPy Broadcasting: infoblaetter/numpy-broadcasting.md
+          - Statistik Grundlagen: infoblaetter/statistik-grundlagen.md
+  - Pandas:
+      - Arbeitsblätter:
+          - PD-01 Einführung: arbeitsblaetter/pd-01-einfuehrung.md
+          - PD-02 Datenzugriff: arbeitsblaetter/pd-02-datenzugriff.md
+          - PD-03 Aggregation: arbeitsblaetter/pd-03-aggregation.md
+          - PD-04 Verbinden: arbeitsblaetter/pd-04-verbinden.md
+          - PD-05 Transformation: arbeitsblaetter/pd-05-transformation.md
+          - PD-06 Fallstudie: arbeitsblaetter/pd-06-fallstudie.md
+      - Infoblätter:
+          - Pandas Grundlagen: infoblaetter/pandas-grundlagen.md
+          - Pandas Datenzugriff: infoblaetter/pandas-datenzugriff.md
+          - Pandas Aggregation: infoblaetter/pandas-aggregation.md
+          - Pandas Transformation: infoblaetter/pandas-transformation.md
+          - Datenbereinigung: infoblaetter/datenbereinigung.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+extra:
+  generator: false
+  jupyter_url: "https://berndheidemann.github.io/dpa_numpy_pandas_jupyter_site/jupyter/lab"
+
+extra_css:
+  - assets/css/pdf-viewer.css
+  - assets/css/jupyter.css
+
+extra_javascript:
+  - assets/js/progress.js
+  
+plugins:
+  - search
+  - awesome-pages                     # Automatische Navigation nach Ordnerstruktur
+  - minify:
+      minify_html: true               # Schnellere Ladezeiten durch kleinere Seiten
+  - kroki                             # PlantUML und andere Diagramme via kroki.io

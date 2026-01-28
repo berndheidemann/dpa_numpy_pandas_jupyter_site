@@ -1,0 +1,22 @@
+{
+    "jupyter-lite-schema-version": 0,
+    "jupyter-config-data": {
+        "appName": "NumPy & Pandas Übungen",
+        "faviconUrl": "https://numpy.org/images/logo.svg",
+        "disabledExtensions": [
+            "@jupyterlab/docmanager-extension:download",
+            "@jupyterlab/docmanager-extension:opener"
+        ],
+        "settingsOverrides": {
+            "@jupyterlab/apputils-extension:themes": {
+                "theme": "JupyterLab Light"
+            },
+            "@jupyterlab/notebook-extension:tracker": {
+                "codeCellConfig": {
+                    "lineNumbers": true,
+                    "autoClosingBrackets": true
+                }
+            }
+        }
+    }
+}

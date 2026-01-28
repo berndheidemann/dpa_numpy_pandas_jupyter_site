@@ -1,0 +1,6 @@
+Wer trinkt mehr, Mathe-Kurs oder portugiesisch Kurs?
+Trinken Studierende mehr, wenn die Bildung der Mutter geringer ist? (Medu)?
+Trinken “Streber” weniger? (studytime)?
+Hat die Traveltime Auswirkungen auf die Studytime?
+Gibt es Auswirkungen der Freetime auf den Alkoholkonsum?
+...

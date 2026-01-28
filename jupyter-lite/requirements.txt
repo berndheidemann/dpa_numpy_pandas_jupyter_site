@@ -1,0 +1,4 @@
+# Python packages die in JupyterLite verfügbar sein sollen
+numpy
+pandas
+matplotlib

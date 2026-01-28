@@ -1,0 +1,29 @@
+About Dataset
+ABOUT
+The Global Shark Attacks Dataset provides a comprehensive record of human-shark interactions worldwide. It includes detailed information such as the date, location, type of attack, activity of the person, shark species involved, and fatality status. This dataset is valuable for researchers, marine biologists, conservationists, and enthusiasts interested in studying shark behavior, understanding attack patterns, and promoting ocean safety.
+
+Key features of the dataset:
+
+✅ Covers multiple countries and regions
+✅ Includes historical and recent shark attack incidents
+✅ Categorizes attacks as unprovoked, provoked, boat-related, and more
+✅ Provides detailed insights into circumstances and outcomes
+This dataset serves as a crucial resource for analyzing shark attack trends, improving public awareness, and supporting marine conservation efforts.
+
+FILE INFORMATION
+The dataset consists of structured records related to shark attacks, compiled from the Global Shark Attack File (GSAF). Each file contains incident details, including attack type, location, species involved, and fatality status. This helps researchers, marine biologists, and data analysts study patterns and trends in human-shark interactions. The file type is csv.
+
+COLUMNS DESCRIPTION
+Date – The specific date when the shark attack occurred.
+Year – The year of the incident, useful for trend analysis.
+Type – Classification of the attack (e.g., unprovoked, provoked).
+Country – The country where the incident took place.
+Area – The specific region within the country.
+Location – The exact location or beach where the attack happened.
+Activity – The activity the person was engaged in at the time (e.g., surfing, swimming).
+Name – The name of the individual involved in the attack.
+Sex – The gender of the individual (M/F).
+Age – Age of the individual involved in the incident.
+Fatal_y_n – Indicates whether the attack was fatal (Y for Yes, N for No).
+Time – The approximate time of the attack.
+Species – The species of shark involved, if identified.
