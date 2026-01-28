@@ -1,6 +1,6 @@
 # Datenanalyse mit NumPy & Pandas
 
-Willkommen zur Lernsituation **Datenanalyse mit NumPy und Pandas**!
+Willkommen zur Lernsituation **Datenanalyse mit NumPy und Pandas**!  (JupyterLite)
 
 Diese Lernmaterialien richten sich an angehende **Fachinformatiker/innen für Daten- und Prozessanalyse** und vermitteln die grundlegenden Techniken der Datenanalyse mit Python.
 
